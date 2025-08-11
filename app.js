@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function() {
         toggleBankInfoBtn.addEventListener('click', function() {
             bankInfoContainer.classList.toggle('hidden');
             toggleBankInfoBtn.textContent = bankInfoContainer.classList.contains('hidden')
-                ? 'Tampilkan Rekening Bank'
+                ? 'Kirim Hadiah'
                 : 'Sembunyikan Rekening Bank';
         });
     }
