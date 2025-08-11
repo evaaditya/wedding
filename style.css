@@ -63,7 +63,7 @@ h1, h2, h3 {
  width: 100%;
  height: 100%;
 /* Gunakan gradien atau warna solid dari palet untuk overlay */
- background: linear-gradient(rgba(74, 44, 42, 0.8), rgba(139, 0, 0, 0.8)), url('file/cover.jpg') no-repeat center center/cover;
+ background: linear-gradient(rgba(74, 44, 42, 0.8), rgba(139, 0, 0, 0.8)), url('https://placehold.co/1200x800/663399/FFFFFF?text=Cover+Image') no-repeat center center/cover;
  background-attachment: fixed;
  display: flex;
  flex-direction: column;
@@ -79,7 +79,7 @@ h1, h2, h3 {
 }
 /* Main Content Background */
 #main-content {
- background: linear-gradient(rgba(74, 44, 42, 0.6), rgba(139, 0, 0, 0.6)), url('file/bg2.jpg') no-repeat center center/cover;
+ background: linear-gradient(rgba(74, 44, 42, 0.6), rgba(139, 0, 0, 0.6)), url('https://placehold.co/1200x800/2c3e50/ecf0f1?text=Background') no-repeat center center/cover;
  background-attachment: fixed;
  /* Pastikan main-content memiliki display yang sesuai saat tidak hidden */
  min-height: 100vh; /* Pastikan cukup tinggi untuk menampilkan background */
