@@ -112,7 +112,7 @@ h1, h2, h3 {
 }
 /* Main Content Background */
 #main-content {
- background: linear-gradient(rgba(74, 44, 42, 0.6), rgba(139, 0, 0, 0.6)), url('file/bg1.jpg') no-repeat center center/cover;
+ background: linear-gradient(rgba(74, 44, 42, 0.6), rgba(139, 0, 0, 0.6)), url('file/bg2.jpg') no-repeat center center/cover;
  background-attachment: fixed;
  /* Pastikan main-content memiliki display yang sesuai saat tidak hidden */
  min-height: 100vh; /* Pastikan cukup tinggi untuk menampilkan background */
@@ -241,5 +241,6 @@ h1, h2, h3 {
     justify-content: space-between;
     align-items: center;
 }
+
 
 
